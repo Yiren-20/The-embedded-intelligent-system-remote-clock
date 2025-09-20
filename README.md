@@ -1,4 +1,4 @@
--   Core code is in clock_main.c和button_control.c
+-   Core code is in clock_main.c and button_control.c
 
 - The BUILD.gn file should be like bellow：
 
