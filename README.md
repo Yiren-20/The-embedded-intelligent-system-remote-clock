@@ -1,6 +1,7 @@
 # Function
 
 The smart alarm clock not only has the functionality of a traditional alarm clock, such as displaying the time and setting alarm intervals, but it also allows the alarm time to be set remotely via a host computer. When setting the alarm, the user can choose to use an ultrasonic sensor to detect whether the roommate has gotten out of bed. Once the roommate is detected as awake, the alarm will automatically turn off the buzzer.
+![Alarm Flowchart](alarm_flowchart_en.png)
 
 # Requirements
 - Hi3861/Hi3881
